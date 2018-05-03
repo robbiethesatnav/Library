@@ -1,6 +1,6 @@
 # Tennis
 
-This is a python package about tennis. Using statistics of each player, this library determines the outcome of a tennis match: the winner and the length of time the match lasts.  In addition, this library can also recall a male player's rank, titles, wins, and losses, as well as a female player's rank, points, and tournament wins.
+This is a Python package about tennis. Using statistics of each player, this library determines the outcome of a tennis match: the winner and the length of time the match lasts.  In addition, this library can also recall a male player's rank, titles, wins, and losses, as well as a female player's rank, points, and tournament wins.
 
 ## Usage
 
