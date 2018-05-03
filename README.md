@@ -13,20 +13,14 @@ To install a version that changes when changes are made to the source files:
 
     $ python setup.py develop
 
-Open Python.
+Open a Jupiter notebook.
     
     >>> import tennis 
 
-Here is an example of how to obtain an outcome for a match between two male players, where the first output is the winner and the second is the length of time the match lasts:
+Here is an example of how to obtain an outcome for a match between two male players, where the first output is the winner and the second is the length of time the match lasts, in minutes:
 
     >>> tennis.m_match(tennis.nadal, tennis.federer)    
     ('Roger Federer', 158)    
-
-Similarly, here is an example of how to obtain an outcome for a match between two female players:
-
-    >>> tennis.f_match(tennis.halep, tennis.wozniacki)    
-    ('Simona Halep', 83)
-
 
 ## Development
 
